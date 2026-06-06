@@ -22,3 +22,10 @@
 - 开发软件：STM32CubeMX + MDK-Keil5
 - 系统版本：CMSIS_V2
 - 工程框架：HAL库开发
+
+## 📷 实物展示
+[智能手表成品]
+<img width="1279" height="1395" alt="53ed2dd9a6582b314b72a57c67c894a5" src="https://github.com/user-attachments/assets/c9208ce5-6df3-445b-ac6d-6d39e091ab05" />
+<img width="375" height="346" alt="image" src="https://github.com/user-attachments/assets/ec38e43a-a6c8-4e03-aa3e-ffa34c2e11b1" />
+<img width="559" height="660" alt="image" src="https://github.com/user-attachments/assets/9598cde9-d984-424f-9b65-f568d2fabb57" />
+
